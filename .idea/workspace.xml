@@ -65,22 +65,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/untitled2/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="13" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1292">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Address.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/untitled2/Address.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="17" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="952">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="25" column="17" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1088">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,18 +84,18 @@
         </entry>
       </file>
       <file leaf-file-name="HelloWorldClient.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ws1/ws/HelloWorldClient.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ws/HelloWorldClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="19" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorld.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ws1/ws/HelloWorld.java">
+      <file leaf-file-name="Weather.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/weather/Weather.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="17" selection-start="435" selection-end="435" vertical-scroll-proportion="0.33333334" vertical-offset="141" max-vertical-offset="714">
+            <state line="22" column="94" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="277" max-vertical-offset="1207">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,10 +103,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BusinessLogic.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="WundergroundXmlData.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/weather/WundergroundXmlData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="6" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
+                <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="e#1059#1060#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WundergroundCurrentObservation.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/weather/WundergroundCurrentObservation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="26" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1309">
+              <folding>
+                <element signature="e#1253#1254#0" expanded="true" />
+                <element signature="e#1283#1284#0" expanded="true" />
+                <element signature="e#1345#1346#0" expanded="true" />
+                <element signature="e#1383#1384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ws/HelloWorldImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="46" selection-start="142" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BusinessLogic.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/untitled2/BusinessLogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="39" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.0" vertical-offset="366" max-vertical-offset="2108">
+            <state line="38" column="21" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.32484075" vertical-offset="0" max-vertical-offset="2108">
               <folding />
             </state>
           </provider>
@@ -144,7 +179,6 @@
         <option value="$PROJECT_DIR$/src/main/java/untitled2/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/untitled2/SpringContextHelper.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/untitled2/ExceptionAspect.java" />
@@ -160,6 +194,13 @@
         <option value="$PROJECT_DIR$/src/main/java/ws1/ws/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/main/java/ws1/ws/HelloWorldImplService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ws1/ws/HelloWorldClient.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/weather/WundergroundWeatherData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weather/WundergroundWeatherXmlData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weather/Weather.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weather/WundergroundXmlData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weather/WundergroundCurrentObservation.java" />
       </list>
     </option>
   </component>
@@ -262,8 +303,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -318,123 +357,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VAADIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VAADIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mytheme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -460,60 +383,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="weather" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -545,7 +422,7 @@
       <recent name="C:\Users\epic\IdeaProjects\untitled2\src\META-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorldClient (1)">
+  <component name="RunManager" selected="Application.Weather">
     <configuration default="false" name="HelloWorldPublisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ws.HelloWorldPublisher" />
       <option name="VM_PARAMETERS" />
@@ -594,10 +471,52 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Weather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weather.Weather" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="untitled2" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -622,45 +541,12 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -688,6 +574,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -776,17 +675,19 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Maven.Run on Jetty" />
       <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldPublisher" />
       <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldClient" />
       <item index="3" class="java.lang.String" itemvalue="Application.HelloWorldClient (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Weather" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.HelloWorldClient (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldClient" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldPublisher" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Weather" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldClient (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldClient" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorldPublisher" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -795,6 +696,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b196ac14-67e4-4dc4-b08c-b27c8900de9c" name="Default" comment="" />
@@ -805,7 +723,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1004" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -813,23 +731,23 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5508571" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.264" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5017143" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3363029" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.336" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14166667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14529915" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20238096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36302894" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20757021" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22857143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -853,32 +771,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="220" column="21" selection-start="7486" selection-end="7486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6817">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="640" selection-end="640" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="33" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1105">
@@ -904,11 +796,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="13" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="2924">
           <folding>
-            <element signature="e#518#545#0" expanded="true" />
-            <element signature="e#7671#8093#0" expanded="true" />
-            <element signature="e#8082#8083#0" expanded="true" />
-            <element signature="e#8309#9042#0" expanded="true" />
-            <element signature="e#9031#9032#0" expanded="true" />
+            <element signature="e#518#545#0" expanded="false" />
+            <element signature="e#7671#8093#0" expanded="false" />
+            <element signature="e#8082#8083#0" expanded="false" />
+            <element signature="e#8309#9042#0" expanded="false" />
+            <element signature="e#9031#9032#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -978,11 +870,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="62" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1071">
           <folding>
-            <element signature="e#518#545#0" expanded="true" />
-            <element signature="e#7671#8093#0" expanded="true" />
-            <element signature="e#8082#8083#0" expanded="true" />
-            <element signature="e#8309#9042#0" expanded="true" />
-            <element signature="e#9031#9032#0" expanded="true" />
+            <element signature="e#518#545#0" expanded="false" />
+            <element signature="e#7671#8093#0" expanded="false" />
+            <element signature="e#8082#8083#0" expanded="false" />
+            <element signature="e#8309#9042#0" expanded="false" />
+            <element signature="e#9031#9032#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1005,11 +897,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="32" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="782">
           <folding>
-            <element signature="e#518#545#0" expanded="true" />
-            <element signature="e#7671#8093#0" expanded="true" />
-            <element signature="e#8082#8083#0" expanded="true" />
-            <element signature="e#8309#9042#0" expanded="true" />
-            <element signature="e#9031#9032#0" expanded="true" />
+            <element signature="e#518#545#0" expanded="false" />
+            <element signature="e#7671#8093#0" expanded="false" />
+            <element signature="e#8082#8083#0" expanded="false" />
+            <element signature="e#8309#9042#0" expanded="false" />
+            <element signature="e#9031#9032#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1025,11 +917,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
           <folding>
-            <element signature="e#518#545#0" expanded="true" />
-            <element signature="e#7671#8093#0" expanded="true" />
-            <element signature="e#8082#8083#0" expanded="true" />
-            <element signature="e#8309#9042#0" expanded="true" />
-            <element signature="e#9031#9032#0" expanded="true" />
+            <element signature="e#518#545#0" expanded="false" />
+            <element signature="e#7671#8093#0" expanded="false" />
+            <element signature="e#8082#8083#0" expanded="false" />
+            <element signature="e#8309#9042#0" expanded="false" />
+            <element signature="e#9031#9032#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1122,11 +1014,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="221" column="18" selection-start="9001" selection-end="9001" vertical-scroll-proportion="0.0" vertical-offset="2781" max-vertical-offset="3978">
           <folding>
-            <element signature="e#518#545#0" expanded="true" />
-            <element signature="e#7671#8093#0" expanded="true" />
-            <element signature="e#8082#8083#0" expanded="true" />
-            <element signature="e#8309#9042#0" expanded="true" />
-            <element signature="e#9031#9032#0" expanded="true" />
+            <element signature="e#518#545#0" expanded="false" />
+            <element signature="e#7671#8093#0" expanded="false" />
+            <element signature="e#8082#8083#0" expanded="false" />
+            <element signature="e#8309#9042#0" expanded="false" />
+            <element signature="e#9031#9032#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1145,13 +1037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="49" selection-start="8084" selection-end="8084" vertical-scroll-proportion="0.74757284" vertical-offset="3687" max-vertical-offset="7106">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/untitled2/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="13" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="986">
@@ -1162,22 +1047,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/untitled2/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="17" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="952">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ws/HelloWorldImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="46" selection-start="142" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/untitled2/BusinessLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="39" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.0" vertical-offset="366" max-vertical-offset="2108">
           <folding />
         </state>
       </provider>
@@ -1189,12 +1058,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ws/HelloWorldClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="0.5915751" vertical-offset="0" max-vertical-offset="595">
+        <state line="13" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.4047619" vertical-offset="0" max-vertical-offset="546">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="849">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="246" column="26" selection-start="8455" selection-end="8455" vertical-scroll-proportion="0.4090909" vertical-offset="3840" max-vertical-offset="7191">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/weather/WundergroundXmlData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="6" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/weather/WundergroundCurrentObservation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="26" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1309">
+          <folding>
+            <element signature="e#1253#1254#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1383#1384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/HelloWorldImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="46" selection-start="142" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,16 +1128,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ws1/ws/HelloWorldClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/weather/Weather.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ws/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.4047619" vertical-offset="0" max-vertical-offset="546">
+        <state line="22" column="94" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="1207">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1223,10 +1139,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ws1/ws/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="435" selection-end="435" vertical-scroll-proportion="0.33333334" vertical-offset="141" max-vertical-offset="714">
+        <state line="17" column="38" selection-start="347" selection-end="347" vertical-scroll-proportion="0.46019107" vertical-offset="0" max-vertical-offset="714">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws1/ws/HelloWorldClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="275" selection-end="275" vertical-scroll-proportion="0.2977707" vertical-offset="0" max-vertical-offset="628">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/HelloWorldClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/untitled2/BusinessLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="21" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.32484075" vertical-offset="0" max-vertical-offset="2108">
+          <folding />
         </state>
       </provider>
     </entry>
