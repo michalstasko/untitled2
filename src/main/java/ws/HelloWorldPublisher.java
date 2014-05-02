@@ -1,5 +1,6 @@
 package ws;
 
+import javax.jws.WebService;
 import javax.xml.ws.Endpoint;
 
 /**
