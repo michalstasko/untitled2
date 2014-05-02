@@ -1,15 +1,10 @@
-/**
- * Copyright (c) 2013 Cleverlance Enterprise Solutions a.s.
- * http://www.cleverlance.com
- * All Rights Reserved.
- */
 
 package weather;
 
 import javax.xml.ws.Endpoint;
 
 /**
- * @author tsenko
+ * @author a
  */
 public class WeatherPublisher {
 
