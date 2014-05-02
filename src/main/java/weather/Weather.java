@@ -1,8 +1,3 @@
-/**
- * Copyright (c) 2013 Cleverlance Enterprise Solutions a.s.
- * http://www.cleverlance.com
- * All Rights Reserved.
- */
 
 package weather;
 
@@ -13,7 +8,7 @@ import javax.xml.bind.JAXBException;
 import java.io.IOException;
 
 /**
- * @author tsenko
+ * @author a
  */
 @WebService
 @SOAPBinding(style = SOAPBinding.Style.RPC)
