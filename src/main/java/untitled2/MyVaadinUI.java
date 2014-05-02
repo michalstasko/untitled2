@@ -32,7 +32,7 @@ public class MyVaadinUI extends UI
     private Button btnAddUser21;
     private Button btnSelectAll;
 
-    @WebServlet(value = "/*", asyncSupported = true)
+    @WebServlet(value = {"/ui/*", "/VAADIN/*"}, asyncSupported = true)
     @VaadinServletConfiguration(productionMode = false, ui = MyVaadinUI.class, widgetset = "untitled2.AppWidgetSet")
     public static class Servlet extends VaadinServlet
             implements SessionInitListener, SessionDestroyListener, HttpSessionActivationListener {

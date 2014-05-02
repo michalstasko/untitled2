@@ -1,5 +1,7 @@
 package weather;
 
+import org.springframework.stereotype.Service;
+
 import javax.jws.WebService;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
@@ -13,6 +15,7 @@ import java.net.URL;
 /**
  * Created by epic on 30.4.2014.
  */
+@Service
 @WebService(endpointInterface = "weather.Weather")
 public class WeatherImplService implements Weather {
 
