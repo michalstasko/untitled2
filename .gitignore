@@ -2,3 +2,6 @@ target/
 .idea/libraries/
 src/main/webapp/VAADIN/widgetsets/
 *.class
+workspace.xml
+tasks.xml
+*.iws
